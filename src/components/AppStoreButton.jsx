@@ -1,6 +1,11 @@
 import appStoreLogo from '/img/app-store-button.png';
 import googlePlayLogo from '/img/google-play-button.png';
 
+/**
+ * Renders buttons linking to the App Store and Google Play Store for app downloads.
+ * It includes images and links that open in new tabs to the respective app store pages.
+ */
+
 function AppStoreButtons() {
   return (
     <div>

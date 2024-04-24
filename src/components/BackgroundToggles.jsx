@@ -1,3 +1,8 @@
+/**
+ * Handles the user interaction for changing the webpage background. Provides clickable divs that change the body's class to apply different backgrounds.
+ * @param {string} number - The background number ('1', '2', or '3') to switch to. Each number corresponds to a specific background class.
+ * @returns {void} Modifies the DOM directly; does not return a value.
+ */
 function BackgroundToggles() {
   const changeBackground = (number) => {
     const body = document.body;

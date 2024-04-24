@@ -4,6 +4,10 @@ import homeImg from '/img/home.png';
 import cartImg from '/img/cart.png';
 import productImg from '/img/product.png';
 
+/**
+ * Renders multiple mockup images showing different aspects of the application.
+ * These images serve to provide a quick visual representation of the app's features.
+ */
 function MockupImages() {
   return (
     <div>

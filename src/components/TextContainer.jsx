@@ -1,5 +1,8 @@
 import AppStoreButtons from './AppStoreButton';
 
+/**
+ * Contains and renders the main textual content of the application, including a title and a paragraph. Also includes AppStoreButtons for additional functionality.
+ */
 function TextContainer() {
   return (
     <div className='text-container'>
