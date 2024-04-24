@@ -1,8 +1,9 @@
+import BrandImage from './components/BrandImage';
 
 function App() {
   return (
-    <div className='App'>
-      <h1>Hello</h1>
+    <div className='wrapper'>
+      <BrandImage />
     </div>
   );
 }
