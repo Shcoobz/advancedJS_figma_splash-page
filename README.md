@@ -1,6 +1,6 @@
 # React Figma Splash Page: [LIVE DEMO](https://shcoobz.github.io/react_figma_splash-page/)
 
-![React Figma Splash Page](img/react_figma_splash-page.png)
+![React Figma Splash Page](public/img/react_figma_splash-page.png)
 
 ## Summary
 
