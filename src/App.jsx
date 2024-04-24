@@ -1,6 +1,7 @@
 import BrandImage from './components/BrandImage';
 import BackgroundToggles from './components/BackgroundToggles';
 import TextContainer from './components/TextContainer';
+import MainImage from './components/MainImage';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <BrandImage />
       <BackgroundToggles />
       <TextContainer />
+      <MainImage />
     </div>
   );
 }
