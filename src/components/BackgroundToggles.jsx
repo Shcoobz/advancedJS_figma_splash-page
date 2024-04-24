@@ -2,7 +2,9 @@ function BackgroundToggles() {
   const changeBackground = (number) => {
     const body = document.body;
     const previousBackground = body.className;
+
     body.className = '';
+
     switch (number) {
       case '1':
         if (previousBackground === 'background-1') return;
