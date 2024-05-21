@@ -1,6 +1,6 @@
-# react_figma_Splash Page: [LIVE DEMO](https://shcoobz.github.io/react_figma_splash-page/)
+# advancedJS_figma_Splash Page: [LIVE DEMO](https://shcoobz.github.io/advancedJS_figma_splash-page/)
 
-![react_figma_Splash Page](assets/react_figma_splash-page.png)
+![advancedJS_figma_Splash Page](assets/advancedJS_figma_splash-page.png)
 
 ## Summary
 
